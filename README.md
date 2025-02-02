@@ -8,4 +8,4 @@ In Unity install by name in the packet manager, name: com.unity.sentis, version:
 
 Convert your model from Keras to Onnx in Jupiter. Then import it into Unity. Click on your model in the inspector and serialize it to Sentis.
 Result:
-![sailboat](.gif)
+![sailboat](https://github.com/Foxyaa/quickdraw/blob/main/sailboat.gif)
